@@ -1,12 +1,12 @@
-package com.rafael.proffy.ui.navigationBottomCustom
+package com.luisotaviodias.proffy.ui.navigationBottomCustom
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.LinearLayout
 import androidx.core.content.ContextCompat
-import com.rafael.proffy.R
-import com.rafael.proffy.databinding.ViewCustomBottomNavigationBinding
+import com.luisotaviodias.proffy.R
+import com.luisotaviodias.proffy.databinding.ViewCustomBottomNavigationBinding
 
 class NavigationBottomCustomView @JvmOverloads constructor(
     context: Context,

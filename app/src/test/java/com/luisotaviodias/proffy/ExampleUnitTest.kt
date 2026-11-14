@@ -1,4 +1,4 @@
-package com.rafael.proffy
+package com.luisotaviodias.proffy
 
 import org.junit.Test
 

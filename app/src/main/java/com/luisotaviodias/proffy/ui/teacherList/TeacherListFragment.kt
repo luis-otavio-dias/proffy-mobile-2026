@@ -1,12 +1,12 @@
-package com.rafael.proffy.ui.teacherList
+package com.luisotaviodias.proffy.ui.teacherList
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.rafael.proffy.R
-import com.rafael.proffy.databinding.FragmentTeacherListBinding
+import com.luisotaviodias.proffy.R
+import com.luisotaviodias.proffy.databinding.FragmentTeacherListBinding
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER

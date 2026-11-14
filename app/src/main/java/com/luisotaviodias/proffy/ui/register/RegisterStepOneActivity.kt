@@ -1,4 +1,4 @@
-package com.rafael.proffy.ui.register
+package com.luisotaviodias.proffy.ui.register
 
 import android.content.Context
 import android.content.Intent
@@ -10,8 +10,8 @@ import androidx.core.content.ContextCompat
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.widget.addTextChangedListener
-import com.rafael.proffy.R
-import com.rafael.proffy.databinding.ActivityRegisterStepOneBinding
+import com.luisotaviodias.proffy.R
+import com.luisotaviodias.proffy.databinding.ActivityRegisterStepOneBinding
 
 class RegisterStepOneActivity : AppCompatActivity() {
 

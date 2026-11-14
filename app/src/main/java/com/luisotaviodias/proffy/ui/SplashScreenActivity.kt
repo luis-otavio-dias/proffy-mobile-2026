@@ -1,4 +1,4 @@
-package com.rafael.proffy.ui
+package com.luisotaviodias.proffy.ui
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,9 +8,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.rafael.proffy.R
-import com.rafael.proffy.databinding.ActivitySplashScreenBinding
-import com.rafael.proffy.ui.login.LoginActivity
+import com.luisotaviodias.proffy.R
+import com.luisotaviodias.proffy.databinding.ActivitySplashScreenBinding
+import com.luisotaviodias.proffy.ui.login.LoginActivity
 
 class SplashScreenActivity : AppCompatActivity() {
     private lateinit var binding: ActivitySplashScreenBinding

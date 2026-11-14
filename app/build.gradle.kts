@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.rafael.proffy"
+    namespace = "com.luisotaviodias.proffy"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.rafael.proffy"
+        applicationId = "com.luisotaviodias.proffy"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

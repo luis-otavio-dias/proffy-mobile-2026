@@ -1,4 +1,4 @@
-package com.rafael.proffy.ui.teacherList
+package com.luisotaviodias.proffy.ui.teacherList
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
@@ -6,8 +6,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
-import com.rafael.proffy.R
-import com.rafael.proffy.databinding.ActivityTeacherListBinding
+import com.luisotaviodias.proffy.R
+import com.luisotaviodias.proffy.databinding.ActivityTeacherListBinding
 
 class TeacherListActivity : AppCompatActivity() {
 

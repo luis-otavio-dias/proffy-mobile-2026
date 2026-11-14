@@ -19,7 +19,7 @@
 
     </FrameLayout>
 
-    <com.rafael.proffy.ui.navigationBottomCustom.NavigationBottomCustomView
+    <com.luisotaviodias.proffy.ui.navigationBottomCustom.NavigationBottomCustomView
         android:id="@+id/bottomNavigationView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
