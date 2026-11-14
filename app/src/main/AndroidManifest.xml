@@ -24,6 +24,10 @@
             android:name=".ui.finallyComponent.FinallyActivity"
             android:exported="false" />
         <activity
+            android:name=".ui.forgot.ForgotPasswordActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
             android:name=".ui.register.RegisterStepTwoActivity"
             android:exported="false" />
         <activity
